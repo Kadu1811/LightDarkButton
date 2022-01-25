@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
 
 body {
-	background-color: #e5e8e8;
-	color: #4e545c;
+	background-color: #eb83e2;
+	color: #ffffff;
 	margin: 0;
 	font-family: 'Quicksand';
 }
 
 body.dark-mode {
-	background-color: #000401;
+	background-color: #040003;
 	color: #e5e8e8;
 }
 
@@ -23,7 +23,7 @@ main {
 
 footer {
 	width: 100%;
-	background-color: #4e545c;
+	background-color: #f03cc3;
 	padding: 16px;
 	color: #e5e8e8;
 	position: fixed;
@@ -43,21 +43,21 @@ button {
 	height: 60px;
 	width: 200px;
 	border: none;
-	background-color: #4e545c;
-	color: #e5e8e8;
+	background-color: #e624ac;
+	color: #fcfcfc;
 	transition: all 0.5s linear;
 }
 
 button:hover {
-	background-color: #000401;
+	background-color: #2e302f;
 }
 
 button.dark-mode {
 	background-color: #e5e8e8;
-	color: #4e545c;
+	color: #c715be;
 }
 
 button.dark-mode:hover {
-	background-color: #4e545c;
-	color: #e5e8e8;
+	background-color: #f37ce3;
+	color: #e21ea7;
 }
