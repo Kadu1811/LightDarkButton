@@ -1,7 +1,7 @@
-<h1 align="center"> DarkPinkButton</h1>
+<h1 align="center"><a href="https://kadu1811.github.io/LightDarkButton/">DarkPinkButton</a></h1>
 
-## Desafafio proposto no bootcamp do Inter como objetivo prática de JavaScript com Html e Css
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/83604920/162542642-72ea0eda-41f0-4ce1-a7f0-96a5df093716.gif">
+</div>
 
-### Com objetivo de aprendizado pessoal eu troquei a cor branca por rosa
-
-<h1 align="center">* <a href="https://kadu1811.github.io/LightDarkButton/">SITE</a> *</h1>
+<h2 align="center">Feito em Javascript para fins de aprendizado</h2>
